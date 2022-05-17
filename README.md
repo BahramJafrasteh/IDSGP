@@ -2,14 +2,13 @@
 
 This code is a **TensorFlow 2.x** implementation of the **IDSGP** method described in the paper entitled "Input Dependent Sparse Gaussian Processes", accepted at **ICML 2022**. 
 
-**SVGP_NN**: our proposed method
-
+**SVGP_NN**: our proposed method<br/>
 For comparision, we also implemented the following methods from :
 
-**SVGP_Titsias**: Titsias, Michalis. "Variational learning of inducing variables in sparse Gaussian processes." Artificial intelligence and statistics. PMLR, 2009.
-**SVGP_Hensman**: Hensman, J., Matthews, A., & Ghahramani, Z. (2015, February). Scalable variational Gaussian process classification. In Artificial Intelligence and Statistics (pp. 351-360). PMLR.
-**SWSGP**: Tran, G. L., Milios, D., Michiardi, P., & Filippone, M. (2021, July). Sparse within sparse Gaussian processes using neighbor information. In International Conference on Machine Learning (pp. 10369-10378). PMLR.
-**SVGP_SOLVE**: Shi, Jiaxin, Michalis Titsias, and Andriy Mnih. "Sparse orthogonal variational inference for gaussian processes." International Conference on Artificial Intelligence and Statistics. PMLR, 2020.
+**SVGP_Titsias**: Titsias, Michalis. "Variational learning of inducing variables in sparse Gaussian processes." Artificial intelligence and statistics. PMLR, 2009.<br/>
+**SVGP_Hensman**: Hensman, J., Matthews, A., & Ghahramani, Z. (2015, February). Scalable variational Gaussian process classification. In Artificial Intelligence and Statistics (pp. 351-360). PMLR.<br/>
+**SWSGP**: Tran, G. L., Milios, D., Michiardi, P., & Filippone, M. (2021, July). Sparse within sparse Gaussian processes using neighbor information. In International Conference on Machine Learning (pp. 10369-10378). PMLR.<br/>
+**SVGP_SOLVE**: Shi, Jiaxin, Michalis Titsias, and Andriy Mnih. "Sparse orthogonal variational inference for gaussian processes." International Conference on Artificial Intelligence and Statistics. PMLR, 2020.<br/>
 
 
 ## Getting Started
@@ -92,11 +91,11 @@ The resulted image with the configuration will appear in the same folder with '.
 
 
 ## Authors
-Jafrasteh*, B., Villacampa-Calvo*, C., & Hernández-Lobato, D. (2022, July). **Sparse within sparse Gaussian processes using neighbor information**. In International Conference on Machine Learning. PMLR.
-https://openreview.net/pdf?id=HL_qE4fz-JZ
+Jafrasteh\*, B., Villacampa-Calvo\*, C., & Hernández-Lobato, D. (2022, July). **Sparse within sparse Gaussian processes using neighbor information**. In International Conference on Machine Learning. PMLR.<br/>
+https://openreview.net/pdf?id=HL_qE4fz-JZ<br/>
 
-**Equal** contribution
-The main code has been developed by **both** first authors.
+*means **Equal** contribution<br/>
+The main code has been developed by **both** first authors.<br/>
 
 
 ## License
